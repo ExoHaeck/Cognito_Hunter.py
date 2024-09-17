@@ -4,6 +4,9 @@ Cognito Hunter es una herramienta para buscar referencias a AWS Cognito en pági
 
 ![image](https://github.com/user-attachments/assets/eb36695a-4fb8-469d-aa0f-8bc3cc82bcd5)
 
+![image](https://github.com/user-attachments/assets/66b4abd8-56b7-40a7-bfac-ef5382956117)
+
+
 
 ## Características
 
