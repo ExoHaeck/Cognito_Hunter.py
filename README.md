@@ -2,6 +2,9 @@
 
 Cognito Hunter es una herramienta para buscar referencias a AWS Cognito en páginas web. Puedes usarla para verificar si una URL o un conjunto de URLs contienen menciones a AWS Cognito.
 
+![image](https://github.com/user-attachments/assets/eb36695a-4fb8-469d-aa0f-8bc3cc82bcd5)
+
+
 ## Características
 
 - **Búsqueda de AWS Cognito**: Detecta la presencia de AWS Cognito en las páginas web.
